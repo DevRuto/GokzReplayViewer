@@ -1,5 +1,7 @@
 # GokzReplayViewer
 
+Link to actual [Demo](index2.html)
+
 Based off of [Zik's GokzReplayViewer](https://github.com/Metapyziks/GOKZReplayViewer)
 
 ## Objective
